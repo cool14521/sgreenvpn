@@ -4,4 +4,4 @@
   * [Windows客户端]()
 
 - **Android平台:**
-  * [Android客户端]()
+  * [Android客户端](https://github.com/newbreedlimited/greenvpn/blob/master/sgreen_1.0_signed.apk?raw=true)
