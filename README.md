@@ -4,7 +4,7 @@
   * [Windows客户端]()
 
 - **Android平台:**
-  * [Android客户端](https://github.com/newbreedlimited/sgreenvpn/blob/master/sgreen_1.0e_signed.apk?raw=true)
+  * [Android客户端](https://github.com/newbreedlimited/sgreenvpn/blob/master/sgreen_common_1.1.apk?raw=true)
   
 - **iOS平台:**
   * [iOS客户端](https://itunes.apple.com/us/app/vpn-sgreen-vpn/id1396328767?l=zh&ls=1&mt=8)
