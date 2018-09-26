@@ -7,4 +7,4 @@
   * [Android客户端](https://github.com/newbreedlimited/sgreenvpn/blob/master/sgreen_common_1.1.apk?raw=true)
   
 - **iOS平台:**
-  * [iOS客户端内测版](http://92.38.189.157/)
+  * [iOS客户端内测版](http://www.sgreenvpn.com/download.html)
