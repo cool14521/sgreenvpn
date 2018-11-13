@@ -4,7 +4,7 @@
   * [Windows客户端](https://raw.githubusercontent.com/newbreedlimited/greenvpn/master/GreenVPN_1.05.zip)
 
 - **Android平台:**
-  * [Android客户端](https://github.com/newbreedlimited/sgreenvpn/blob/master/sgreen_common_1.1.apk?raw=true)
+  * [Android客户端](https://ad.apps.fm/ldNn-dGqqNBdsOXkzaijA0RxiSwsnJuGITywXIeL2O-v2EZLLw1QIdbMA5Yk8fv2TTwO_PBDU6G3jQM5TXIwhaxYORWtYpPXCj7lk2cjL-fbjJj1wkui1JP6RM1wCzvBiCs_PN0X5zJUtsR5dPOvTg)
   
 - **iOS平台:**
-  * 正在开发中
+  * [iOS客户端内测版](http://www.sgreenvpn.com/download.html)
