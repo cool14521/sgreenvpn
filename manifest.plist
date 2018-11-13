@@ -11,13 +11,13 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/newbreedlimited/sgreenvpn/blob/master/SGreen.ipa?raw=true</string>
+					<string>https://github.com/newbreedlimited/sgreenvpn/raw/master/SGreen.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://github.com/newbreedlimited/sgreenvpn/raw/master/icon_57.png</string>
+					<string>https://github.com/newbreedlimited/sgreenvpn/raw/master/icon_7.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
