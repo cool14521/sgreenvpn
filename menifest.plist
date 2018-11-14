@@ -16,7 +16,7 @@
                   <string>software-package</string>
                   <!-- required.  the URL of the file to download. -->
                   <key>url</key>
-                  <string>http://119.23.154.225/sgreen/ios/SGreen.ipa</string>
+                  <string>https://sgreentest.oss-cn-beijing.aliyuncs.com/ios/1.02/SGreen.ipa?Expires=1542180709&OSSAccessKeyId=TMP.AQEVEDMl7kZqjwK_v7SQ-rm7Z-lJCTkxK1HIcQOQNZp2t-cA3f4-NxlpPe3BADAtAhUA7eKABMf6nkbR_P_iPOlPoMXNGkMCFE3nYm7EHxk2sezzXppqIWupFa1l&Signature=hctY1BI0fMwVQjdjLCMbwNzHGXI%3D</string>
               </dict>
               <!-- display-image: the icon to display during download. -->
               <dict>
