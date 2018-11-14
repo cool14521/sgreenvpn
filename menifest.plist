@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://sgreentest.oss-cn-beijing.aliyuncs.com/ios/1.02/SGreen.ipa?Expires=1542180709&OSSAccessKeyId=TMP.AQEVEDMl7kZqjwK_v7SQ-rm7Z-lJCTkxK1HIcQOQNZp2t-cA3f4-NxlpPe3BADAtAhUA7eKABMf6nkbR_P_iPOlPoMXNGkMCFE3nYm7EHxk2sezzXppqIWupFa1l&Signature=hctY1BI0fMwVQjdjLCMbwNzHGXI%3D</string>
+					<string>http://sgreentest.oss-cn-beijing.aliyuncs.com/ios/1.02/SGreen.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
